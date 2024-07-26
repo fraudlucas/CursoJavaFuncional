@@ -1,6 +1,7 @@
 ## About the repository
 
-Exercises from Udemy's free Java Functional Programming course -- original name, in Portuguese, "Desenvolvedor Funcional com Java 8".
+Exercises from Udemy's free Java Functional Programming course -- original name, in Portuguese, [Desenvolvedor Funcional com Java 8](https://www.udemy.com/course/desenvolvedor-funcional-com-java-8/).
+
 
 ## Getting Started
 
